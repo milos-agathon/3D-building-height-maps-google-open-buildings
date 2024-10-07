@@ -8,4 +8,6 @@ In this repo, you'll learn:
 3. Merge it with Google Open Buildings Polygons.
 4. Create stunning 2D and 3D building maps using `ggplot2` and `rayshader` in R.
 
+This code will help you create a crisp 2D map of building height in downtown Mumbai.
 
+As well as a 3D map
