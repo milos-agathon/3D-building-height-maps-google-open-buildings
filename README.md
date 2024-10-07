@@ -10,4 +10,8 @@ In this repo, you'll learn:
 
 This code will help you create a crisp 2D map of building height in downtown Mumbai.
 
-As well as a 3D map
+![alt text](https://github.com/milos-agathon/3D-building-height-maps-google-open-buildings/blob/main/img/mumbai-building-height.png?raw=true)
+
+As well as a 3D map for the same area
+
+![alt text](https://github.com/milos-agathon/3D-building-height-maps-google-open-buildings/blob/main/img/3d_mumbai_building_height.png?raw=true)
